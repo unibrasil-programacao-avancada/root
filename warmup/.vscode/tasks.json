@@ -7,7 +7,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "${file}", "${fileDirname}/solver/warmup_solver.c",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
