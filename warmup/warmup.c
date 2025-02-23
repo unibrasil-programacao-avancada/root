@@ -24,7 +24,7 @@ int main() {
 
     if (dir) {
 
-        int prefix_length = strlen(&FILE_PREFIX);
+        int prefix_length = strlen(FILE_PREFIX);
         total_success = total_failures = 0;
 
         while ((str_dir  = readdir(dir)) != NULL) {
