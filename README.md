@@ -7,7 +7,7 @@
 ### Instalação e Configuração da Biblioteca MPI - Windows
 
 - Faça o download dos dois instaladores _msmpisdk.msi_ e _msmpisetup.exe_ da biblioteca através do link [Microsoft MPI v10.0](https://www.microsoft.com/en-us/download/details.aspx?id=57467)
-- Para configurar a biblioteca no Code::Blocks, siga o tutorial em vídeo disponível no [YouTube - Installing MPI Library on CodeBlocks[(https://www.youtube.com/watch?v=eFKLxnbAhWk) 
+- Para configurar a biblioteca no Code::Blocks, siga o tutorial em vídeo disponível no [YouTube - Installing MPI Library on CodeBlocks](https://www.youtube.com/watch?v=eFKLxnbAhWk) 
 
 #### Testando a Biblioteca
 
