@@ -20,7 +20,7 @@
 
 - Abra a janela de configuração em `Settings > Compiler... > Linker settings`
 - Acione o botão "Add"
-- Localize a biblioteca `libgomp.dll.a` disponível no caminho `C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\libgomp.dll.a`
+- Localize a biblioteca no caminho `C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\libgomp.dll.a`
 
 ## Warm-Up
 
