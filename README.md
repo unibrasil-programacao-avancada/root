@@ -16,6 +16,12 @@
 - Cole o código no arquivo `main.c` gerado na criação do projeto C.
 - Compile e execute o código.
 
+### Configuração da Biblioteca OpenMP no Code::Blocks - Windows
+
+- Abra a janela de configuração em `Settings > Compiler... > Linker settings`
+- Acione o botão "Add"
+- Localize a biblioteca `libgomp.dll.a` disponível no caminho `C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\libgomp.dll.a`
+
 ## Warm-Up
 
 Para compilar o código:
