@@ -16,6 +16,12 @@
 - Cole o código no arquivo `main.c` gerado na criação do projeto C.
 - Compile e execute o código.
 
+### Executando Múltiplos Processos
+
+- Acesse o diretório `bin\Debug` do projeto pela linha de comando.
+- Execute o comando `mpiexec -n 4 <NOME DO ARQUIVO .EXE>`. Serão executados 4 processos do programa.
+    - Altere o valor do parâmetro `-n` para a quantidade de processos que queira executar.
+
 ### Configuração da Biblioteca OpenMP no Code::Blocks - Windows
 
 - Abra a janela de configuração em `Settings > Compiler... > Linker settings`
