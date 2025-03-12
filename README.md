@@ -16,7 +16,7 @@
 - Cole o código no arquivo `main.c` gerado na criação do projeto C.
 - Compile e execute o código.
 
-### Executando Múltiplos Processos
+#### Executando Múltiplos Processos
 
 - Acesse o diretório `bin\Debug` do projeto pela linha de comando.
 - Execute o comando `mpiexec -n 4 <NOME DO ARQUIVO .EXE>`. Serão executados 4 processos do programa.
