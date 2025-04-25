@@ -1,8 +1,21 @@
-# Object files
+cache/cache
 warmup/warmup
 warmup/solution.txt
-cache/cache
-
-# Code Blocks files
 warmup/bin
 warmup/obj
+
+mpi/bin/**
+mpi/obj/**
+mpi/lib_finder.script
+mpi/*.save
+mpi/mpi.depend
+mpi/mpi.layout
+
+pthreads/bin/**
+pthreads/obj/**
+pthreads/lib_finder.script
+pthreads/*.save
+pthreads/mpi.depend
+pthreads/mpi.layout
+
+**/*.exe

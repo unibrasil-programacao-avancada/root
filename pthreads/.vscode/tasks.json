@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build C program",
+        "type": "shell",
+        "command": "gcc",
+        "args": [
+          "-g", "-Wall", "-Werror",
+          "main.c", "util.c", "sum_entries.c", "sum_vectors.c", 
+          "-o",
+          "pthreads"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"]
+      }
+    ]
+  }
+  

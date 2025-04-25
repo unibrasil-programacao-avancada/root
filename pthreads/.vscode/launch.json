@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run main.c",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/pthreads",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ],
+        "preLaunchTask": "build C program",
+        "miDebuggerPath": "C:/Program Files/CodeBlocks/MinGW/bin/gdb.exe"
+      }
+    ]
+  }
+  

@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1745604695 source:c:\projects\programacao-avancada\code\pthreads\main.c
+	"practices.h"
+
+1745604524 c:\projects\programacao-avancada\code\pthreads\practices.h
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+
+1745595988 source:c:\projects\programacao-avancada\code\pthreads\vector_sum.c
+	"practices.h"
+
+1745604199 source:c:\projects\programacao-avancada\code\pthreads\util.c
+	"util.h"
+
+1745604740 c:\projects\programacao-avancada\code\pthreads\util.h
+	<stdlib.h>
+	<time.h>
+
+1745604731 source:c:\projects\programacao-avancada\code\pthreads\sum_entries.c
+	"practices.h"
+
+1745604256 source:c:\projects\programacao-avancada\code\pthreads\sum_vectors.c
+	"practices.h"
+
+1745604695 source:c:\projects\programacao-avancada\root\pthreads\main.c
+	"practices.h"
+
+1745604524 c:\projects\programacao-avancada\root\pthreads\practices.h
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+
+1745604740 c:\projects\programacao-avancada\root\pthreads\util.h
+	<stdlib.h>
+	<time.h>
+
+1745606581 source:c:\projects\programacao-avancada\root\pthreads\sum_entries.c
+	"practices.h"
+
+1745605979 source:c:\projects\programacao-avancada\root\pthreads\sum_vectors.c
+	"practices.h"
+
+1745604199 source:c:\projects\programacao-avancada\root\pthreads\util.c
+	"util.h"
+
