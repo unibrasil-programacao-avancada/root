@@ -25,6 +25,7 @@ typedef struct
     int *vecsum;
 } vectorssum_t;
 
+void print_threads_id(int num_threads);
 void serial_sum_vector_entries();
 void parallel_sum_vector_entries(int num_threads);
 void serial_sum_vectors();

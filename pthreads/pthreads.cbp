@@ -41,6 +41,9 @@
 		<Unit filename="sum_vectors.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="threads_id.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="util.c">
 			<Option compilerVar="CC" />
 		</Unit>
