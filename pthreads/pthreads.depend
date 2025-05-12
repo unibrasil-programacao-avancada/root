@@ -25,10 +25,10 @@
 1745604256 source:c:\projects\programacao-avancada\code\pthreads\sum_vectors.c
 	"practices.h"
 
-1745604695 source:c:\projects\programacao-avancada\root\pthreads\main.c
+1747049661 source:c:\projects\programacao-avancada\root\pthreads\main.c
 	"practices.h"
 
-1745769710 c:\projects\programacao-avancada\root\pthreads\practices.h
+1747048792 c:\projects\programacao-avancada\root\pthreads\practices.h
 	"util.h"
 	<stdio.h>
 	<stdlib.h>
@@ -39,12 +39,15 @@
 	<stdlib.h>
 	<time.h>
 
-1745606581 source:c:\projects\programacao-avancada\root\pthreads\sum_entries.c
+1746528356 source:c:\projects\programacao-avancada\root\pthreads\sum_entries.c
 	"practices.h"
 
-1745605979 source:c:\projects\programacao-avancada\root\pthreads\sum_vectors.c
+1746528626 source:c:\projects\programacao-avancada\root\pthreads\sum_vectors.c
 	"practices.h"
 
 1745604199 source:c:\projects\programacao-avancada\root\pthreads\util.c
 	"util.h"
+
+1745769138 source:c:\projects\programacao-avancada\root\pthreads\threads_id.c
+	"practices.h"
 

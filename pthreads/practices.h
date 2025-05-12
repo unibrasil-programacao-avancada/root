@@ -30,5 +30,7 @@ void serial_sum_vector_entries();
 void parallel_sum_vector_entries(int num_threads);
 void serial_sum_vectors();
 void parallel_sum_vectors(int num_threads);
+void serial_matrix_reverse();
+void parallel_matrix_reverse();
 
 #endif // SAMPLES_H_INCLUDED
